@@ -453,7 +453,7 @@ nav {
 }
 #about .about-img {
 	height: 200px;
-	width: 300px;
+	width: 200px;
 	}
 /* Header Section */
 .intro h1 {
@@ -486,13 +486,9 @@ h2 {
     font-size: 28px; /* kurangi ukuran font untuk layar kecil */
 }
 #team img {
-	max-width: 300px;
+	max-width: 200px;
 	padding-top: 40px;
 }
-#about .about-img {
-	height: 300px;
-	margin-top: 120px;
-	margin-left: 30px;
 .section-title p {
     font-size: 18px; /* kurangi ukuran font untuk layar kecil */
 }
