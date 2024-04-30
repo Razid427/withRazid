@@ -452,7 +452,7 @@ nav {
 	text-align: left;
 }
 #about .about-img {
-	height: 200px;
+	height: 300px;
 	width: 200px;
 	}
 /* Header Section */
@@ -486,7 +486,7 @@ h2 {
     font-size: 28px; /* kurangi ukuran font untuk layar kecil */
 }
 #team img {
-	max-width: 200px;
+	max-width: 300px;
 	padding-top: 40px;
 }
 .section-title p {
