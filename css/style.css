@@ -489,6 +489,10 @@ h2 {
 	max-width: 300px;
 	padding-top: 40px;
 }
+#about .about-img {
+	height: 300px;
+	margin-top: 120px;
+	margin-left: 30px;
 .section-title p {
     font-size: 18px; /* kurangi ukuran font untuk layar kecil */
 }
