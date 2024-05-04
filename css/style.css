@@ -491,8 +491,8 @@ h2 {
 	padding-top: 40px;
 }
 .map_container .map-responsive iframe {
-	max-width: 200px;
-	height: 100px;
+	max-width: 250px;
+	height: 200px;
 }
 .section-title p {
     font-size: 18px; /* kurangi ukuran font untuk layar kecil */
