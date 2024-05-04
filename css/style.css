@@ -456,8 +456,9 @@ nav {
 	height:200px;
 	}
 .map_container .map-responsive iframe {
+	max-width: 300px;
 	height: 200px;
-	width: 300px;
+	
 }
 /* Header Section */
 .intro h1 {
