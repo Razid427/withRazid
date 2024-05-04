@@ -491,7 +491,7 @@ h2 {
 	padding-top: 40px;
 }
 .map_container .map-responsive iframe {
-	max-width: 250px;
+	width: auto;
 	height: 200px;
 }
 .section-title p {
