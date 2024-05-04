@@ -455,11 +455,7 @@ nav {
 	max-width: 300px;
 	height:200px;
 	}
-.map_container .map-responsive iframe {
-	max-width: 300px;
-	height: 200px;
-	
-}
+
 /* Header Section */
 .intro h1 {
     font-size: 3em; /* ukuran font yang lebih kecil */
@@ -493,6 +489,10 @@ h2 {
 #team img {
 	max-width: 300px;
 	padding-top: 40px;
+}
+.map_container .map-responsive iframe {
+	max-width: 200px;
+	height: 100px;
 }
 .section-title p {
     font-size: 18px; /* kurangi ukuran font untuk layar kecil */
