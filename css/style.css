@@ -455,6 +455,10 @@ nav {
 	max-width: 300px;
 	height:200px;
 	}
+.map_container .map-responsive iframe {
+	height: 200px;
+	width: 400px;
+}
 /* Header Section */
 .intro h1 {
     font-size: 3em; /* ukuran font yang lebih kecil */
